@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\ref\StrRegexTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\bin\Debug\net5.0\StrRegexTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\ref\StrRegexTask.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\StrRegexTask\obj\Debug\net5.0\StrRegexTask.genruntimeconfig.cache

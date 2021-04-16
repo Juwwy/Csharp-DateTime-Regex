@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\ref\DateTimeTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\bin\Debug\net5.0\DateTimeTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\ref\DateTimeTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\CSharp-Regex-string\DateTimeTest\obj\Debug\net5.0\DateTimeTest.genruntimeconfig.cache
